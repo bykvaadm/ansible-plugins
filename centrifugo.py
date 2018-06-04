@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 
-#from googleapiclient import discovery
-#from oauth2client.service_account import ServiceAccountCredentials
 from ansible.module_utils.basic import AnsibleModule
-#from dateutil import parser
 import time,datetime,json
 from cent import Client
 
